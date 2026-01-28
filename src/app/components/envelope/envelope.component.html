@@ -1,0 +1,14 @@
+<div class="envlope-wrapper">
+    <div id="envelope" [class.open]="letterService.isOpen()" [class.close]="!letterService.isOpen()">
+        <div class="front flap"></div>
+        <div class="front pocket"></div>
+        <div class="letter">
+            <app-letter></app-letter>
+        </div>
+        <div class="hearts">
+            <div class="heart a1"></div>
+            <div class="heart a2"></div>
+            <div class="heart a3"></div>
+        </div>
+    </div>
+</div>
