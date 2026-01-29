@@ -130,7 +130,7 @@ No se que estarás pensando, como estarás, pero si se el gran amor que te tengo
     },
     {
         id: '3',
-        title: 'Just Because',
+        title: 'Te amo',
         preview: 'I was thinking of you today...',
         disponibilidad: false,
         content: `Hello Beautiful,
