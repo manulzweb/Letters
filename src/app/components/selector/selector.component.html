@@ -1,0 +1,12 @@
+<div class="selector-container">
+    <h1 class="title">Escoge una carta princesa 🤎</h1>
+    <div class="grid">
+        <div class="card" *ngFor="let letter of letters" [class.disabled]="!letter.disponibilidad"
+            (click)="letter.disponibilidad ? select(letter) : null">
+            <div class="card-icon">{{ letter.disponibilidad ? '💌' : '🔒' }}</div>
+            <h2 class="card-title">{{ letter.title }}</h2>
+            <p class="card-preview">{{ letter.disponibilidad ? letter.preview : 'Este contenido no está disponible por
+                ahora' }}</p>
+        </div>
+    </div>
+</div>

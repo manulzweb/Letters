@@ -3,12 +3,14 @@ import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { EnvelopeComponent } from './components/envelope/envelope.component';
 import { ControlsComponent } from './components/controls/controls.component';
+import { SelectorComponent } from './components/selector/selector.component';
+import { IntroComponent } from './components/intro/intro.component';
 import { LetterService } from './services/letter.service';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, RouterOutlet, EnvelopeComponent, ControlsComponent],
+  imports: [CommonModule, RouterOutlet, EnvelopeComponent, ControlsComponent, SelectorComponent, IntroComponent],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

@@ -2,16 +2,59 @@
 .main-layout {
     width: 100vw;
     min-height: 100vh;
-    /* Use full height */
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    /* Center horizontally */
     position: relative;
     z-index: 10;
-    /* Ensure content is above background */
     overflow-x: hidden;
+}
+
+.envelope-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.controls-wrapper {
+    position: absolute;
+    bottom: 5vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    z-index: 150;
+}
+
+.back-btn {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1.5px solid rgba(255, 255, 255, 0.7);
+    border-radius: 30px;
+    color: #ff5757;
+    font-family: inherit;
+    font-weight: 800;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 10px 20px;
+    z-index: 200;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: 0 8px 32px 0 rgba(255, 182, 193, 0.1);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.back-btn:hover {
+    transform: translateX(-5px);
+    background: #fff;
+    box-shadow: 0 4px 15px rgba(255, 87, 87, 0.1);
 }
 
 /* Rain Effect */
@@ -22,9 +65,7 @@
     width: 100%;
     height: 100%;
     pointer-events: none;
-    /* Let clicks pass through */
     z-index: 0;
-    /* Behind everything */
     overflow: hidden;
 }
 
@@ -51,23 +92,38 @@
     }
 }
 
-/* Specific component overrides for response */
+/* Base scale for app-envelope */
 app-envelope {
-    margin-top: 50px;
-    transform: scale(1.5);
+    margin: 50px 0;
+    transform: scale(1.2);
     transition: transform 0.3s ease;
 }
 
 /* Mobile Responsive */
 @media (max-width: 600px) {
     app-envelope {
-        transform: scale(1.0);
-        /* Smaller scale for mobile */
-        margin-top: 20px;
+        transform: scale(0.85);
+        margin: 20px 0;
+    }
+
+    .back-btn {
+        top: 10px;
+        left: 10px;
+        font-size: 0.8rem;
+        padding: 6px 12px;
+    }
+
+    .controls-wrapper {
+        bottom: 2vh;
     }
 
     .falling-heart {
         font-size: 18px;
-        /* Smaller hearts on mobile */
+    }
+}
+
+@media (max-height: 700px) {
+    app-envelope {
+        transform: scale(0.75);
     }
 }

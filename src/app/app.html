@@ -1,7 +1,26 @@
-<div class="main-layout">
-    <app-envelope></app-envelope>
-    <app-controls></app-controls>
+<div class="main-layout" *ngIf="letterService.selectedLetter(); else selectorView">
+    <ng-container *ngIf="letterService.isTransitioning(); else envelopeView">
+        <app-intro [letter]="letterService.selectedLetter()"></app-intro>
+    </ng-container>
+
+    <ng-template #envelopeView>
+        <div class="envelope-container">
+            <button class="back-btn" (click)="letterService.clearSelection()">
+                ← Volver al menú
+            </button>
+
+            <app-envelope></app-envelope>
+
+            <div class="controls-wrapper">
+                <app-controls></app-controls>
+            </div>
+        </div>
+    </ng-template>
 </div>
+
+<ng-template #selectorView>
+    <app-selector></app-selector>
+</ng-template>
 
 <!-- Heart Rain Effect -->
 <div class="rain-container" *ngIf="letterService.isOpen()">
