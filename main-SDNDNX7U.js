@@ -177,21 +177,35 @@ a hacerlas a un lado y pedirle que acabe con mi agon\xEDa. Te amo\u2026 con toda
 favor haga me el honor de aceptar mi mano\u201D
 
 Forever yours,
-Att. Nuel.`},{id:"2",title:"Five days earlier\u2026",preview:"In this letter, I open my heart and reveal the thoughts that filled my days before you came back.",disponibilidad:!0,content:`Doce de septiembre de 2025,
+Att. Nuel.`},{id:"3",title:"Five days earlier\u2026",preview:"In this letter, I open my heart and reveal the thoughts that filled my days before you came back.",disponibilidad:!1,content:`Doce de septiembre de 2025,
 
 \xDAltimamente me hab\xEDa sentido m\xE1s estable desde que decid\xED tomar distancia. Sin embargo, no puedo sacarte de mi mente, ni mucho menos de mi coraz\xF3n. Me encuentro totalmente roto por dentro por mas de que disimule ante la multitud, tom\xE9 distancia para estabilizar mis impulsos, y es lo m\xE1s dif\xEDcil que he hecho hasta ahora. Todo iba bien hasta que me di cuenta de que pod\xEDas malinterpretar mi decisi\xF3n a un cierre definitivo, lo que tanto quisiste.
 
 Siento una mezcla de nostalgia, amor, impotencia y rabia, pero no contra ti, sino contra mi mismo, por haber actuado de esa manera estoy pagando la condena de mis acciones. Seria il\xF3gico apuntar hacia ti. Me hiciste el hombre m\xE1s feliz del mundo, y al mismo tiempo el m\xE1s infeliz. No me diste razones para rendirme y aun no lo hago, pero el sentimiento de que cada d\xEDa escoges no estar a mi lado me carcome el alma. Aun sigo en la lucha, mi lucha interna que tanto me ha quitado, soy totalmente responsable de ella. Trabajare para ser mejor, volver a ser el hombre que alg\xFAn d\xEDa te cautivo, recuperar esa esencia que tanto te gusta, pero para eso necesito distanciarme totalmente, el estar contigo asi sea vini\xE9ndonos juntos me resulta imposible, silencios que al principio se sent\xEDan bien, pero a lo largo del tiempo se han vuelto en castigos eternos ante la posibilidad de saber de ti. 
 
 No se que estar\xE1s pensando, como estar\xE1s, pero si se el gran amor que te tengo y tambi\xE9n el aprecio por mostrarme mis conductas tanto buenas como malas, me dar\xE9 mi tiempo para sanar y procesar todo, espero no sea tarde.
-`},{id:"3",title:"Just Because",preview:"I was thinking of you today...",disponibilidad:!1,content:`Hello Beautiful,
+`},{id:"2",title:"Feliz d\xEDa, my woman.",preview:"I just want to express some things to my girl...",disponibilidad:!0,content:`
 
-I was just sitting here thinking about you and wanted to send a little note to say how much I appreciate you.
+Susana. Hoy, mediante este escrito, quiero confesarte mis m\xE1s sinceros pensamientos como una forma de gratitud por todo lo que hemos vivido y seguimos viviendo juntos.
 
-Your smile makes my day, and your kindness inspires me. I hope you have a day as wonderful as you are.
+Usted ha sido un antes y un despu\xE9s en mi vida. Jam\xE1s pens\xE9 que una persona podr\xEDa derretir el fr\xEDo y congelado coraz\xF3n que cre\xEDa tener\u2026 hasta que te conoc\xED.
 
-Thinking of you,
-[Your Name]`},{id:"4",title:"A Poem for You",preview:"Roses are red, violets are blue...",disponibilidad:!1,content:`My Sweetheart,
+Sutilmente, poco a poco, fui entrando en tu vida. Pero a m\xED realmente me costaba darte paso a la m\xEDa. Me escond\xEDa detr\xE1s de un muro, bloqueando cualquier impacto en mis sentimientos, incluso si ven\xEDa de ti.
+
+A todo le llega un punto cr\xEDtico, y a m\xED me lleg\xF3. Quer\xEDa estar contigo sin sentirme d\xE9bil, vulnerable o fr\xE1gil, quer\xEDa quererte sin darte acceso completo a mis emociones ni a mi ser.
+
+No pod\xEDa creerlo, todo termin\xF3 quebr\xE1ndose. Mis acciones y mis pensamientos se reflejaron en nuestra relaci\xF3n, y ah\xED fue cuando realmente sufr\xED. Hab\xEDa pasado lo que nunca imagin\xE9 ni quise, perd\xED a la mujer que amaba\u2026 y todo por no desnudar mi alma ante ella.
+
+Aprend\xED. Me cost\xF3 l\xE1grimas y sufrimiento, pero sobre todo me cost\xF3 no tenerte. Tus besos, tus abrazos y nuestros recuerdos rondaban constantemente en mi mente. Y gracias a todo ese dolor, hoy soy el hombre que est\xE1 contigo.
+
+Porque aprend\xED de mis errores. Gracias a ti, mujer. Lograste sacarme de mis propios pensamientos y me diste la oportunidad de conocer lo que realmente significa sentir.
+
+Quiero que sepas que te admiro profundamente. Eres una de las mujeres m\xE1s amadas por mi coraz\xF3n, y me llena de orgullo la paz, la alegr\xEDa y la felicidad que traes a mi vida.
+
+Gracias por tu amor y por tu cari\xF1o. Me siento afortunado de tener a mi lado a una mujer tan especial. 
+
+Feliz d\xEDa de la mujer, cari\xF1o.
+`},{id:"4",title:"A Poem for You",preview:"Roses are red, violets are blue...",disponibilidad:!1,content:`My Sweetheart,
 
 In a garden of roses, you are the most vibrant bloom.
 In a sky full of stars, you are the brightest moon.
