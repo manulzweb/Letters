@@ -130,17 +130,31 @@ No se que estarás pensando, como estarás, pero si se el gran amor que te tengo
     },
     {
         id: '3',
-        title: 'Te amo',
-        preview: 'I was thinking of you today...',
-        disponibilidad: false,
-        content: `Hello Beautiful,
+        title: 'Feliz día, my woman.',
+        preview: 'I just want to express some things to my girl...',
+        disponibilidad: true,
+        content: `
 
-I was just sitting here thinking about you and wanted to send a little note to say how much I appreciate you.
+Susana. Hoy, mediante este escrito, quiero confesarte mis más sinceros pensamientos como una forma de gratitud por todo lo que hemos vivido y seguimos viviendo juntos.
 
-Your smile makes my day, and your kindness inspires me. I hope you have a day as wonderful as you are.
+Usted ha sido un antes y un después en mi vida. Jamás pensé que una persona podría derretir el frío y congelado corazón que creía tener… hasta que te conocí.
 
-Thinking of you,
-[Your Name]`
+Sutilmente, poco a poco, fui entrando en tu vida. Pero a mí realmente me costaba darte paso a la mía. Me escondía detrás de un muro, bloqueando cualquier impacto en mis sentimientos, incluso si venía de ti.
+
+A todo le llega un punto crítico, y a mí me llegó. Quería estar contigo sin sentirme débil, vulnerable o frágil, quería quererte sin darte acceso completo a mis emociones ni a mi ser.
+
+No podía creerlo, todo terminó quebrándose. Mis acciones y mis pensamientos se reflejaron en nuestra relación, y ahí fue cuando realmente sufrí. Había pasado lo que nunca imaginé ni quise, perdí a la mujer que amaba… y todo por no desnudar mi alma ante ella.
+
+Aprendí. Me costó lágrimas y sufrimiento, pero sobre todo me costó no tenerte. Tus besos, tus abrazos y nuestros recuerdos rondaban constantemente en mi mente. Y gracias a todo ese dolor, hoy soy el hombre que está contigo.
+
+Porque aprendí de mis errores. Gracias a ti, mujer. Lograste sacarme de mis propios pensamientos y me diste la oportunidad de conocer lo que realmente significa sentir.
+
+Quiero que sepas que te admiro profundamente. Eres una de las mujeres más amadas por mi corazón, y me llena de orgullo la paz, la alegría y la felicidad que traes a mi vida.
+
+Gracias por tu amor y por tu cariño. Me siento afortunado de tener a mi lado a una mujer tan especial. 
+
+Feliz día de la mujer, cariño.
+`
     },
     {
         id: '4',
